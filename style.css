@@ -15,7 +15,7 @@ main {
     background-color: rgba(255,255,255,.7);
     border-radius:20px;
     padding:10px 40px;
-    padding-top:30px;
+    padding-top:20px;
     margin-bottom:100px;
     font-size: 18px;
     color: rgb(50, 50, 50);
@@ -133,8 +133,7 @@ ul ul li::before {
 
 section > ul {
     background-color: white;
-    padding:10px 40px;
-    padding-top:15px;
+    padding:5px 40px;
 }
 
 ul + ul {
