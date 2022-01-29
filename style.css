@@ -161,6 +161,7 @@ section {
 }
 
 .resume p {
+    font-weight:bold;
     text-indent: 20px;
     margin-top:10px;
     margin-bottom:0;
