@@ -149,6 +149,19 @@ section {
     overflow:hidden;
 }
 
+.resume {
+    background-color: white;
+    text-align: justify;
+    margin: 20px 15px;
+    padding: 15px 25px;
+    border-radius: 15px;
+}
+
+.resume p {
+    text-indent: 20px;
+    margin-bottom:10px;
+}
+
 section:first-of-type ul {
     display: flex;
     flex-direction: row;
