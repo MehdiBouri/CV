@@ -70,9 +70,7 @@ h3 {
     text-align: left;
 }
 .contact {
-    display: block;
-    grid-template-columns: 13% 87%;
-    font-size:18px;
+    font-size:20px;
     font-weight: bold;
     text-align:left;
     margin-bottom:10px;
